@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerServiceThatSimulatesADevice", "WorkerServiceThatSimulatesADevice\WorkerServiceThatSimulatesADevice.csproj", "{CF3EAC87-CF14-4E08-9449-7FFC482D3935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3EAC87-CF14-4E08-9449-7FFC482D3935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3EAC87-CF14-4E08-9449-7FFC482D3935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3EAC87-CF14-4E08-9449-7FFC482D3935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3EAC87-CF14-4E08-9449-7FFC482D3935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DA24D7D-B28B-446C-9EDB-AF3FAE452525}
+	EndGlobalSection
+EndGlobal
